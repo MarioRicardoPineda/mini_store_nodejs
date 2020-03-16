@@ -1,0 +1,30 @@
+[
+    {
+        "id" : 1,
+        "title" : "Laptop", 
+        "desc" : "Laptop de ultima generacion a un precio unico",
+        "price" : 200,
+        "image" : "https://cdn.mos.cms.futurecdn.net/X5TyA8uvkGXoNyjFzxcowS.jpg"
+    },
+    {
+        "id" : 2,
+        "title" : "Reloj", 
+        "desc" : "Reloj de ultima generacion a un precio unico",
+        "price" : 60,
+        "image" : "https://img.bgxcdn.com/thumb/view/oaupload/banggood/images/80/3B/54e2b853-39ec-449e-a04f-3218d193957e.jpg"
+    },
+    {
+        "id" : 3,
+        "title" : "Equipo de sonido", 
+        "desc" : "Equipo de sonido de ultima generacion a un precio unico",
+        "price" : 170,
+        "image" : "https://www.lg.com/pa/images/equipo-de-sonido/md05272423/gallery/medium01.jpg"
+    },
+    {
+        "id" : 4,
+        "title" : "PlayStation", 
+        "desc" : "PlayStation de ultima generacion a un precio unico",
+        "price" : 400,
+        "image" : "https://cnnespanol2.files.wordpress.com/2020/02/200206110724-underscored-ps4-pro-lead.jpg?quality=100&strip=info&w=460&h=260&crop=1"
+    }
+]

@@ -1,0 +1,28 @@
+{
+  "name": "mini_store_nodejs",
+  "version": "1.0.0",
+  "description": "Esta es una practa de un backend de productos con nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js",
+    "dev" : "npx nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarioRicardoPineda/mini_store_nodejs.git"
+  },
+  "keywords": [
+    "store",
+    "nodejs",
+    "practics"
+  ],
+  "author": "Ricardo Pineda",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^2.0.2"
+  }
+}
