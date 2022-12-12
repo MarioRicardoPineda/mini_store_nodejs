@@ -19,7 +19,7 @@
   "author": "Ricardo Pineda",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "colors": "^1.4.0",
